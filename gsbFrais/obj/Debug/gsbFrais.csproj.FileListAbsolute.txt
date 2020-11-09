@@ -1,0 +1,11 @@
+C:\Users\lheritier.adam\Documents\Visual Studio 2015\Projects\gsbFrais\gsbFrais\bin\Debug\gsbFrais.exe.config
+C:\Users\lheritier.adam\Documents\Visual Studio 2015\Projects\gsbFrais\gsbFrais\bin\Debug\gsbFrais.exe
+C:\Users\lheritier.adam\Documents\Visual Studio 2015\Projects\gsbFrais\gsbFrais\bin\Debug\gsbFrais.pdb
+C:\Users\lheritier.adam\Documents\Visual Studio 2015\Projects\gsbFrais\gsbFrais\bin\Debug\MySql.Data.dll
+C:\Users\lheritier.adam\Documents\Visual Studio 2015\Projects\gsbFrais\gsbFrais\obj\Debug\gsbFrais.Form1.resources
+C:\Users\lheritier.adam\Documents\Visual Studio 2015\Projects\gsbFrais\gsbFrais\obj\Debug\gsbFrais.Properties.Resources.resources
+C:\Users\lheritier.adam\Documents\Visual Studio 2015\Projects\gsbFrais\gsbFrais\obj\Debug\gsbFrais.csproj.GenerateResource.Cache
+C:\Users\lheritier.adam\Documents\Visual Studio 2015\Projects\gsbFrais\gsbFrais\obj\Debug\gsbFrais.exe
+C:\Users\lheritier.adam\Documents\Visual Studio 2015\Projects\gsbFrais\gsbFrais\obj\Debug\gsbFrais.pdb
+C:\Users\lheritier.adam\Documents\Visual Studio 2015\Projects\gsbFrais\gsbFrais\obj\Debug\gsbFrais.FormConnexion.resources
+C:\Users\lheritier.adam\Documents\Visual Studio 2015\Projects\gsbFrais\gsbFrais\obj\Debug\gsbFrais.csprojResolveAssemblyReference.cache
