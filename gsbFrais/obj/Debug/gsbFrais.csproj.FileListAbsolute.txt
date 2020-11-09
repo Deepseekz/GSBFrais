@@ -8,4 +8,3 @@ C:\Users\lheritier.adam\Documents\Visual Studio 2015\Projects\gsbFrais\gsbFrais\
 C:\Users\lheritier.adam\Documents\Visual Studio 2015\Projects\gsbFrais\gsbFrais\obj\Debug\gsbFrais.exe
 C:\Users\lheritier.adam\Documents\Visual Studio 2015\Projects\gsbFrais\gsbFrais\obj\Debug\gsbFrais.pdb
 C:\Users\lheritier.adam\Documents\Visual Studio 2015\Projects\gsbFrais\gsbFrais\obj\Debug\gsbFrais.FormConnexion.resources
-C:\Users\lheritier.adam\Documents\Visual Studio 2015\Projects\gsbFrais\gsbFrais\obj\Debug\gsbFrais.csprojResolveAssemblyReference.cache

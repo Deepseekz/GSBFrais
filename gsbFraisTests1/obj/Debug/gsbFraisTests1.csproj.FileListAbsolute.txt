@@ -1,0 +1,10 @@
+C:\Users\lheritier.adam\Documents\Visual Studio 2015\Projects\gsbFrais\gsbFraisTests1\obj\Debug\gsbFraisTests1.csprojResolveAssemblyReference.cache
+C:\Users\lheritier.adam\Documents\Visual Studio 2015\Projects\gsbFrais\gsbFraisTests1\bin\Debug\gsbFraisTests1.dll
+C:\Users\lheritier.adam\Documents\Visual Studio 2015\Projects\gsbFrais\gsbFraisTests1\bin\Debug\gsbFraisTests1.pdb
+C:\Users\lheritier.adam\Documents\Visual Studio 2015\Projects\gsbFrais\gsbFraisTests1\bin\Debug\gsbFrais.exe
+C:\Users\lheritier.adam\Documents\Visual Studio 2015\Projects\gsbFrais\gsbFraisTests1\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\lheritier.adam\Documents\Visual Studio 2015\Projects\gsbFrais\gsbFraisTests1\bin\Debug\MySql.Data.dll
+C:\Users\lheritier.adam\Documents\Visual Studio 2015\Projects\gsbFrais\gsbFraisTests1\bin\Debug\gsbFrais.pdb
+C:\Users\lheritier.adam\Documents\Visual Studio 2015\Projects\gsbFrais\gsbFraisTests1\bin\Debug\fr\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Users\lheritier.adam\Documents\Visual Studio 2015\Projects\gsbFrais\gsbFraisTests1\obj\Debug\gsbFraisTests1.dll
+C:\Users\lheritier.adam\Documents\Visual Studio 2015\Projects\gsbFrais\gsbFraisTests1\obj\Debug\gsbFraisTests1.pdb
